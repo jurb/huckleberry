@@ -1,3 +1,5 @@
+This is my solution of workshop #1 of [Josh W Comeau's fun & excellent css course](https://css-for-js.dev/).
+
 # Huckleberry Agency Website
 
 In this workshop, you'll build a minimal landing page for an agency.

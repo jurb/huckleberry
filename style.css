@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
 }
 
 html,
@@ -10,3 +10,74 @@ body {
 }
 
 /* Add styles here! */
+
+strong {
+  color: hsl(160deg, 100%, 30%);
+}
+
+.intro-chunk {
+  padding: 24px;
+}
+
+.max-width-wrapper {
+  max-width: 550px;
+  margin: auto;
+}
+
+.intro-chunk {
+  max-width: 384px;
+  padding: 24px;
+}
+.intro-chunk p {
+  font-size: 1.25rem;
+}
+
+.title {
+  font-size: 1.5rem;
+  padding: 24px 0;
+}
+
+main {
+  background-color: hsl(0deg, 0%, 60%);
+  border-top: 6px solid hsl(0deg, 0%, 40%);
+  height: max-content;
+  padding: 64px 0;
+}
+
+.card {
+  background-color: white;
+  border-bottom: 6px solid hsl(0deg, 0%, 40%);
+  padding-top: 8px;
+}
+
+.card p {
+  padding: 0 24px;
+}
+
+.indented-heading {
+  border-top: 0px solid;
+  background-color: hsl(45deg, 100%, 50%);
+  padding: 16px;
+  padding-left: 36px;
+  margin-left: -12px;
+  margin-top: 0px;
+  font-size: 1.25rem;
+  width: max-content;
+  border-bottom: 6px solid hsl(45deg, 100%, 40%);
+}
+
+/* hsl(0deg, 0%, 0%) (black) */
+/* hsl(0deg, 0%, 10%) (very dark) */
+/* hsl(0deg, 0%, 30%) (dark) */
+/* hsl(0deg, 0%, 40%) (medium) */
+/* hsl(0deg, 0%, 60%) (light) */
+/* hsl(0deg, 0%, 100%) (white) */
+
+/* 8px */
+/* 16px */
+/* 24px */
+/* 32px */
+/* 48px */
+/* 64px */
+/* 96px */
+/* 128px */
