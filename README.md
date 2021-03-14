@@ -1,4 +1,4 @@
-This is my solution of workshop #1 of [Josh W Comeau's fun & excellent css course](https://css-for-js.dev/).
+This is my solution for workshop #1 of [Josh W Comeau's fun & excellent css course](https://css-for-js.dev/).
 
 # Huckleberry Agency Website
 
